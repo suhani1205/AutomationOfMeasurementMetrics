@@ -1,0 +1,5 @@
+fresh_online_delivery_purchase_1st, , backfill_small, 2021-09-26, 2021-10-26
+fresh_online_delivery_purchase_nth,1,,2021-09-26, 2021-10-26
+alexa_shopping_addtolist_1st,3,backfill_large, ,
+
+alexa_shopping_unconditional_purchase_intent_1st, , backfill_large, 2021-09-26, 2021-10-26
